@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" width="65" alt="" /> Microsservicos - JPA</h1>
+<h1 align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" width="65" alt="" /> Microsservicos - Java</h1>
 
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=DioenD&message=Java&color=d2cca1&labelColor=757780" alt="DioenD">
@@ -15,6 +15,13 @@
 
 ## Projeto :computer:
 Projeto . Desenvolver...
+
+![image](https://github.com/DioenDJS/Microsservicos-java/assets/76778401/06e5e894-fb1c-4a79-9b4b-0c80b3fa18e3)
+
+![image](https://github.com/DioenDJS/Microsservicos-java/assets/76778401/8d776a60-c56b-4328-beac-60ebf9867453)
+
+![image](https://github.com/DioenDJS/Microsservicos-java/assets/76778401/854b024b-5fdc-4b0a-8766-485aa579ee1d)
+
 
 ## Como o projeto foi criado 
 
@@ -48,8 +55,10 @@ Projeto . Desenvolver...
 ### Worker
 
 #### Listagem de Workers
+![image](https://github.com/DioenDJS/Microsservicos-java/assets/76778401/3071c1ac-7bd5-4bf7-8e2a-559eda3f61e2)
 
 #### Lista Worker por id
+![image](https://github.com/DioenDJS/Microsservicos-java/assets/76778401/e6507014-82ea-47d7-a1e3-7b08b2f8237e)
 
 
 

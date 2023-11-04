@@ -48,6 +48,10 @@ Projeto . Desenvolver...
     <scope>runtime</scope>
 </dependency>
 ```
+# Eureka server registrando os microsserviços
+url: http://localhost:8761/
+![image](https://github.com/DioenDJS/Microsservicos-java/assets/76778401/535d5e68-bea3-447c-bdb0-f1c7a593bc15)
+
 ## Importe Collection Postman
 
 ## Methods HTTP no postman:
@@ -59,6 +63,13 @@ Projeto . Desenvolver...
 
 #### Lista Worker por id
 ![image](https://github.com/DioenDJS/Microsservicos-java/assets/76778401/e6507014-82ea-47d7-a1e3-7b08b2f8237e)
+
+### Payroll
+
+#### Listando e calculando pagamentos payment de um Worker por id e quantidade de dias
+![image](https://github.com/DioenDJS/Microsservicos-java/assets/76778401/458e352e-9599-46b7-9e87-b517690241c6)
+
+
 
 
 

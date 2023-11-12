@@ -22,12 +22,12 @@ public class HrConfigServerApplication{
 	}
 
 	// mostra no console valor da variavel de ambiente username
-	@Override
-	public void run(String... args) throws Exception {
-		// TODO Auto-generated method stub
-		System.out.println("USERNAME = " + username);
-		System.out.println("PASS = " + pass);
-		
-	}
+//	@Override
+//	public void run(String... args) throws Exception {
+//		// TODO Auto-generated method stub
+//		System.out.println("USERNAME = " + username);
+//		System.out.println("PASS = " + pass);
+//		
+//	}
 
 }
